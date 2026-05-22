@@ -1,9 +1,8 @@
 # Analyzing-failed-Taxi-orders
 
-A 3-sentence summary of what you analyzed and the main takeaway (e.g., Analyzed taxi request logs to diagnose why orders fail. Discovered a supply shortage during morning commute rush hours leading to a spike in system timeouts).
+Analyzed taxi request logs to diagnose why orders fail. Discovered a supply shortage during morning commute rush hours leading to a spike in system timeouts.
 
 Key Tech Stack: Python, Pandas, Seaborn, Matplotlib.
-
 
 1) README.md (The homepage of your project)
 2) notebooks/ (Contains your Google Colab or Jupyter Notebook)
